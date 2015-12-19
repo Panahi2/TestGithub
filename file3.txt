@@ -1,2 +1,6 @@
 second line
+<<<<<<< HEAD
+345
+=======
 111
+>>>>>>> refs/heads/Feature1
